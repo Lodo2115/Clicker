@@ -1,7 +1,7 @@
 table.minimalistBlack {
     border: 0px solid #000000;
     width: 100px;
-    text-align: left;
+    text-align: center;
     border-collapse: collapse;
   }
   table.minimalistBlack td, table.minimalistBlack th {
